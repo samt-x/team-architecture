@@ -1,7 +1,7 @@
 ---
-title: "Arkitektur"
-linkTitle: "Arkitektur"
-weight: 30
+title: "Team arkitektur"
+linkTitle: "Team arkitektur"
+weight: 10
 status: "Ikke påbegynt"
 ---
 
