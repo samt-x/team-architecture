@@ -1,7 +1,7 @@
 ---
-title: "Team arkitektur"
-linkTitle: "Team arkitektur"
+title: Team arkitektur
+linkTitle: Team arkitektur
 weight: 10
-status: "Ikke påbegynt"
+status: Ikke påbegynt
 ---
-
+Her kommer mer innhold.
