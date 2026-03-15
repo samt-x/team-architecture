@@ -4,7 +4,7 @@ title: "Team architecture"
 linkTitle: "Team architecture"
 weight: 10
 status: "Not started"
-last_editor: Erik Hagen
+last_editor: erikhag1git (Erik Hagen)
 
 ---
 
