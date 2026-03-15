@@ -3,6 +3,8 @@ id: c6bf81cb-d1de-4017-b0d5-6f099db0ba5b
 title: Arkitekturstyring
 linkTitle: Arkitekturstyring
 weight: 40
+last_editor: erikhag1git
+
 ---
 > **Kilde:** SAMT-BU kjerneteam / Digdir, februar 2026.
 > [Åpne i Word Online](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FSAMT-X%2Fsamt-bu-files%2Fmain%2Fcontributions%2Fdigdir-drafts%2FMal%20for%20arkitekturvurderinger.docx&ui=nb-NO&rs=nb-NO) – [last ned Word-fil](https://github.com/SAMT-X/samt-bu-files/raw/main/contributions/digdir-drafts/Mal%20for%20arkitekturvurderinger.docx)
