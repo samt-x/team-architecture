@@ -1,5 +1,5 @@
 ---
-id: bcc72f46-52a7-4b55-bc0c-5be02a8ee81a
+id: ebeba9e1-0b1a-4751-b6e0-417532e7d7ae
 title: "Pilot architecture"
 linkTitle: "Pilot architecture"
 weight: 10
