@@ -5,7 +5,7 @@ title: "High-level architecture"
 linkTitle: "High-level architecture"
 weight: 10
 status: "Not started"
-lastmod: 2026-04-23T16:57:52+02:00
+lastmod: 2026-10-10T17:57:22+02:00
 last_editor: Erik Hagen
 
 ---
