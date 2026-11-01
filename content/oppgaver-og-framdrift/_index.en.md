@@ -3,6 +3,8 @@ id: 879f2592-0d7d-4882-b444-736ba0af920c
 title: "Tasks and progress"
 linkTitle: "Tasks and progress"
 weight: 90
+lastmod: 2026-11-01T17:11:52+01:00
+last_editor: Erik Hagen
 
 ---
 
