@@ -20,6 +20,6 @@ The architecture group's tasks for the framework and the generic architecture ar
 
 ## Timeline
 
-The tasks with dates, with arrows showing which tasks wait for each other. Only tasks with a start date or due date are included. The chart is generated from the board every hour. How to read it, and how a task gets into it: see [Timeline](/en/prosjektleveranser/loesninger/samhandlingsplattform/oppgavestyring/tidslinje/) in task management.
+All tasks on the board, with arrows showing which tasks wait for each other. What has happened is dark. Missing dates are calculated and dashed. The chart is generated from the board every hour. How to read it, and how a task gets into it: see [Timeline](/en/prosjektleveranser/loesninger/samhandlingsplattform/oppgavestyring/tidslinje/) in task management.
 
 {{< inline-svg "project-5-en.svg" "/prosjektleveranser/loesninger/samhandlingsplattform/oppgavestyring/tidslinje" >}}

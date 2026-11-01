@@ -20,6 +20,6 @@ Arkitekturgruppas oppgaver for rammeverket og den generiske arkitekturen ligger 
 
 ## Tidslinje
 
-Oppgavene med datoer, med pilene for hvilke oppgaver som venter på hverandre. Bare oppgaver med startdato eller frist kommer med. Figuren lages fra brettet hver time. Slik leser du den, og slik får en oppgave med: se [Tidslinje](/prosjektleveranser/loesninger/samhandlingsplattform/oppgavestyring/tidslinje/) i oppgavestyringen.
+Alle oppgavene på brettet, med pilene for hvilke oppgaver som venter på hverandre. Det som har skjedd, er mørkt. Datoer som mangler, er beregnet og stiplet. Figuren lages fra brettet hver time. Slik leser du den, og slik får en oppgave med: se [Tidslinje](/prosjektleveranser/loesninger/samhandlingsplattform/oppgavestyring/tidslinje/) i oppgavestyringen.
 
 {{< inline-svg "project-5-nb.svg" "/prosjektleveranser/loesninger/samhandlingsplattform/oppgavestyring/tidslinje" >}}
