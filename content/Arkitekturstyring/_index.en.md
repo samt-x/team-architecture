@@ -4,7 +4,7 @@ id: c6bf81cb-d1de-4017-b0d5-6f099db0ba5b
 title: "Architecture governance"
 linkTitle: "Architecture governance"
 weight: 40
-lastmod: 2026-11-02T21:36:04+01:00
+lastmod: 2026-11-20T02:49:08+01:00
 last_editor: Erik Hagen
 
 ---
