@@ -25,7 +25,7 @@ last_editor: Erik Hagen
 
 **Logical – How** – Describes the logical structure. This describes how the requirements and properties are met. This is done by grouping the services into logical components. The «ideal» solution is explored without implementation being part of the assessment. Several alternative solutions are assessed to test different priorities and the consequences of the alternative proposals.
 
-**Physical – With what** – Description of how the planned structure is intended to be implemented. This describes the physical solutions, i.e. which concrete (physical) components (systems, software), which technology (programming languages), architecture patterns, products etc. have been chosen to implement the logical components. Standards and patterns are used to help define the solution. In addition come guidelines from the runtime platforms and guidelines for development. Different solution alternatives are assessed.
+**Physical – With what** – Description of how the planned structure is intended to be implemented. This describes the physical solutions, i.e. which concrete (physical) components (systems, software), which technology (programming languages), architecture patterns, products etc. have been chosen to implement the logical components. Standards and patterns are used to help define the solution. There are also constraints from the runtime platforms and development guidelines. Different solution alternatives are assessed.
 
 ### Background (why) – Contextual level
 
